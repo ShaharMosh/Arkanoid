@@ -26,8 +26,7 @@ ant compile
 ant run
 -Dargs="args" run
 ```
-(the args is the levels choose by the player)
-for example:
+The args is the levels choose by the player, for example:
 ```
 ant -Dargs="1 3 2 1 9 1 3 4 3" run
 ```
