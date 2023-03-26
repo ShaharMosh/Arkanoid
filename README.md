@@ -15,7 +15,7 @@ The implementation of the game includes using GUI and OOPs methodology such as:
 
 ## Installation
 
-Install Apache Ant Link to a guide: Apache Ant Installation Video Windows 10
+Install Apache Ant Link to a guide: [Apache Ant Installation](https://ant.apache.org/manual/install.html)
 
 After it, run the following commands in the terminal:
 ```
