@@ -9,8 +9,10 @@ The implementation of the game includes using GUI and OOPs methodology such as:
   * Usage of design patterns such as Observer, Factory, etc.
 
 
-## About The Game
 
+Level in the game for example:
+
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/117023310/227772276-849aaf51-de42-4df0-80b1-63cdb683302b.png">
 
 
 ## Installation
